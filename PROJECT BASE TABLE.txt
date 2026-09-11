@@ -1,0 +1,12 @@
+INSERT INTO books (id, book, author, status, rating) VALUES
+(1, 'the bell jar', 'sylvia plath', 'read', 8),
+(2, 'thousand splendid suns', 'khaled hosseini', 'wanttoread', NULL),
+(3, 'picture of dorian gray', 'oscar wilde', 'reading', NULL),
+(4, 'to kill a mockingbird', 'harper lee', 'read', 7),
+(5, 'animal farm', 'george orwell', 'read', 4),
+(6, 'girl interrupted', 'susanna kaysen', 'reading', NULL),
+(7, 'gone girl', 'gillian flynn', 'read', 6),
+(8, 'song of achilles', 'madeline miller', 'read', 9),
+(9, 'promising young women', 'caroline odonoghue', 'reading', NULL),
+(10, 'crime & punishment', 'franz kafka', 'read', 3);
+
